@@ -3,7 +3,7 @@
 #### 🛠추가
 |no.|name|note|
 |:--:|:--:|:--:|
-|01|**00_Exercises**|Day01~Day30의 exercises python file 모음|
+|01|**📁00_Exercises**|Day01~Day30의 exercises python file 모음|
 |02|📚Daily Topics의 **note**|각 Topic의 별도 정리|
 
 <br>
