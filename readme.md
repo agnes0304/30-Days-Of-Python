@@ -1,7 +1,17 @@
 # 🐍 30 Days Of Python 
 
-|# Day | Topics                                                    |
-|------|:---------------------------------------------------------:|
+#### 🛠추가
+|no.|name|note|
+|:--:|:--:|:--:|
+|01|**00_Exercises**|Day01~Day30의 exercises python file 모음|
+|02|📚Daily Topics의 **note**|각 Topic의 별도 정리|
+
+<br>
+
+#### 📚Daily Topics
+
+| Day|Topics|note|
+|:--:|:------------------------------:|:--:|
 | 01  |  [Introduction](./readme.md)|
 | 02  |  [Variables, Built-in Functions](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)|
 | 03  |  [Operators](./03_Day_Operators/03_operators.md)|
@@ -33,12 +43,8 @@
 | 29 |  [Building API](./29_Day_Building_API/29_building_API.md)|
 | 30 |  [Conclusions](./30_Day_Conclusions/30_conclusions.md)|
 
-🧡🧡🧡 HAPPY CODING 🧡🧡🧡
-
-<div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
-</div>
+<br>
+<br>
 
 <div align="center">
   <h1> 30 Days Of Python: Day 1 - Introduction</h1>
