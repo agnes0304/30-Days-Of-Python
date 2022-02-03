@@ -85,8 +85,20 @@ odd_total = 0
 for i in range(1, 101, 2):
     odd_total += i
 print(odd_total)
-# Go to the data folder and use the countries.py file. Loop through the countries and extract all the countries containing the word land.
-# This is a fruit list, ['banana', 'orange', 'mango', 'lemon'] reverse the order using loop.
+
+# Go to the data folder and use the countries.py file. 
+# Loop through the countries and extract all the countries containing the word land.
+
+# This is a fruit list, 
+test = ['banana', 'orange', 'mango', 'lemon'] 
+# reverse the order using loop.
+# 3>0, 2>1, 1>2, 0>3
+for i in range(len(test)//2):
+    temp = test[i]
+    test[i] = test[3-i]
+    test[3-i] = temp
+print(test)
+
 # Go to the data folder and use the countries_data.py file.
     # What are the total number of languages in the data
     # Find the ten most spoken languages from the data
