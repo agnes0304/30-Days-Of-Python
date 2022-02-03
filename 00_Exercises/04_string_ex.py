@@ -78,12 +78,6 @@ def acronym():
 # acronym()
 
 
-# Use index to determine the position of the first occurrence of C in Coding For All.
-# Use index to determine the position of the first occurrence of F in Coding For All.
-# Use rfind to determine the position of the last occurrence of l in Coding For All People.
-# Use index or find to find the position of the first occurrence of the word 'because' in the following sentence: 'You cannot end a sentence with because because because is a conjunction'
-# Use rindex to find the position of the last occurrence of the word because in the following sentence: 'You cannot end a sentence with because because because is a conjunction'
-# Slice out the phrase 'because because because' in the following sentence: 'You cannot end a sentence with because because because is a conjunction'
 # Find the position of the first occurrence of the word 'because' in the following sentence: 
 test = 'You cannot end a sentence with because because because is a conjunction'
 print(test.find('because'))
